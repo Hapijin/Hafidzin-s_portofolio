@@ -1,5 +1,3 @@
-# Hafidzin's Portofolio
-
 # [1st Project] Analyizing Amazon Data Sales
 
 In this project i learned about how to cleanse, classifying, and visualizing the data
